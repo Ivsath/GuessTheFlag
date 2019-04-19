@@ -54,12 +54,12 @@
 		AAEDD4BD2269ACEA006B20E5 /* GuessTheFlag */ = {
 			isa = PBXGroup;
 			children = (
-				AAEDD4BE2269ACEA006B20E5 /* AppDelegate.swift */,
 				AAEDD4C02269ACEA006B20E5 /* ViewController.swift */,
 				AAEDD4C22269ACEA006B20E5 /* Main.storyboard */,
-				AAEDD4C52269ACEC006B20E5 /* Assets.xcassets */,
-				AAEDD4C72269ACEC006B20E5 /* LaunchScreen.storyboard */,
 				AAEDD4CA2269ACEC006B20E5 /* Info.plist */,
+				AAEDD4BE2269ACEA006B20E5 /* AppDelegate.swift */,
+				AAEDD4C72269ACEC006B20E5 /* LaunchScreen.storyboard */,
+				AAEDD4C52269ACEC006B20E5 /* Assets.xcassets */,
 			);
 			path = GuessTheFlag;
 			sourceTree = "<group>";
